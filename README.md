@@ -8,10 +8,12 @@ Hey there. Im Logan Kirkpatrick. I am a current Junior at DRHS, and beginning a 
 <sub>
 First personal website (<a href="https://github.com/Logank42/Logank42.github.io">View</a>)
 </sub>
+<br />
 
 <sub>
 RTS game (not working) (<a href="https://github.com/WTCSC/socket-to-em-l">View</a>)
 </sub>
+<br />
 
 <sub>
 Binary calc (I'm just using slang guys) (<a href="https://github.com/WTCSC/binary-calculator-Logank42">View</a>)
@@ -21,10 +23,12 @@ Binary calc (I'm just using slang guys) (<a href="https://github.com/WTCSC/binar
 <sub>
 • Make a working RTS game
 </sub>
+<br />
 
 <sub>
 • Learn 1-2 more coding languages
 </sub>
+<br />
 
 <sub>
 • Begin learing about machine intelligence
