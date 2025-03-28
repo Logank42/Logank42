@@ -1,16 +1,31 @@
-## Hi there 👋
+## About me:
+<sub>
+Hey there. Im Logan Kirkpatrick. I am a current Junior at DRHS, and beginning a journey in cyber security and coding. I mainly use python as that is what I have been taught on, however I look foward to learning more. Taking classes in these subjects has increased my skills drastically and I am excited to see where it will go.
+</sub>
 
-<!--
-**Logank42/Logank42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Some projects:
 
-Here are some ideas to get you started:
+<sub>
+First personal website (<a href="https://github.com/Logank42/Logank42.github.io">View</a>)
+</sub>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<sub>
+RTS game (not working) (<a href="https://github.com/WTCSC/socket-to-em-l">View</a>)
+</sub>
+
+<sub>
+Binary calc (I'm just using slang guys) (<a href="https://github.com/WTCSC/binary-calculator-Logank42">View</a>)
+</sub>
+
+### My goals:
+<sub>
+• Make a working RTS game
+</sub>
+
+<sub>
+• Learn 1-2 more coding languages
+</sub>
+
+<sub>
+• Begin learing about machine intelligence
+</sub>
